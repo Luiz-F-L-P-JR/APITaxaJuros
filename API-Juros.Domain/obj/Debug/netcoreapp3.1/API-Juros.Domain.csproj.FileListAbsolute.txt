@@ -1,0 +1,9 @@
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-Juros\API-Juros\API-Juros.Domain\bin\Debug\netcoreapp3.1\API-Juros.Domain.deps.json
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-Juros\API-Juros\API-Juros.Domain\bin\Debug\netcoreapp3.1\API-Juros.Domain.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-Juros\API-Juros\API-Juros.Domain\bin\Debug\netcoreapp3.1\API-Juros.Domain.pdb
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-Juros\API-Juros\API-Juros.Domain\obj\Debug\netcoreapp3.1\API-Juros.Domain.csprojAssemblyReference.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-Juros\API-Juros\API-Juros.Domain\obj\Debug\netcoreapp3.1\API-Juros.Domain.AssemblyInfoInputs.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-Juros\API-Juros\API-Juros.Domain\obj\Debug\netcoreapp3.1\API-Juros.Domain.AssemblyInfo.cs
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-Juros\API-Juros\API-Juros.Domain\obj\Debug\netcoreapp3.1\API-Juros.Domain.csproj.CoreCompileInputs.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-Juros\API-Juros\API-Juros.Domain\obj\Debug\netcoreapp3.1\API-Juros.Domain.dll
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-Juros\API-Juros\API-Juros.Domain\obj\Debug\netcoreapp3.1\API-Juros.Domain.pdb

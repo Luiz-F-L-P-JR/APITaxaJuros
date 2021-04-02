@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>API_Juros.Application</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\API-Juros.Domain.Service\API-Juros.Domain.Service.csproj" />
+    <ProjectReference Include="..\API-Juros.Domain\API-Juros.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

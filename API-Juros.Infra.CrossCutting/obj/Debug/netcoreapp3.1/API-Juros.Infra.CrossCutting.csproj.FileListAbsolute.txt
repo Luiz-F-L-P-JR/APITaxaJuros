@@ -1,0 +1,4 @@
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-Juros\API-Juros\API-Juros.Infra.CrossCutting\obj\Debug\netcoreapp3.1\API-Juros.Infra.CrossCutting.csprojAssemblyReference.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-Juros\API-Juros\API-Juros.Infra.CrossCutting\obj\Debug\netcoreapp3.1\API-Juros.Infra.CrossCutting.AssemblyInfoInputs.cache
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-Juros\API-Juros\API-Juros.Infra.CrossCutting\obj\Debug\netcoreapp3.1\API-Juros.Infra.CrossCutting.AssemblyInfo.cs
+D:\Luiz\Pessoal\Arquivos\Projetos API\Api-Juros\API-Juros\API-Juros.Infra.CrossCutting\obj\Debug\netcoreapp3.1\API-Juros.Infra.CrossCutting.csproj.CoreCompileInputs.cache

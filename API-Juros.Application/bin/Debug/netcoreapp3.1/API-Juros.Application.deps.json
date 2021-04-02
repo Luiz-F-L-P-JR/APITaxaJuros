@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "API-Juros.Application/1.0.0": {
+        "dependencies": {
+          "API-Juros.Domain": "1.0.0",
+          "API-Juros.Domain.Service": "1.0.0"
+        },
+        "runtime": {
+          "API-Juros.Application.dll": {}
+        }
+      },
+      "API-Juros.Domain/1.0.0": {
+        "runtime": {
+          "API-Juros.Domain.dll": {}
+        }
+      },
+      "API-Juros.Domain.Service/1.0.0": {
+        "dependencies": {
+          "API-Juros.Domain": "1.0.0"
+        },
+        "runtime": {
+          "API-Juros.Domain.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "API-Juros.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "API-Juros.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "API-Juros.Domain.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
