@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using API_Juros.Application;
-using API_Juros.Application.TaxaJuros;
-using API_Juros.Domain.Service;
-using API_Juros.Domain.TaxaJuros;
+using APITaxaJuros.Application;
+using APITaxaJuros.Application.TaxaJuros;
+using APITaxaJuros.Domain.Service;
+using APITaxaJuros.Domain.TaxaJuros;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -16,7 +16,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 
-namespace API_Juros
+namespace APITaxaJuros
 {
     public class Startup
     {

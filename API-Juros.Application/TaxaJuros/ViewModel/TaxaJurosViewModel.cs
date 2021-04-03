@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace API_Juros.Application.TaxaJuros.ViewModel
+namespace APITaxaJuros.Application.TaxaJuros.ViewModel
 {
     public class TaxaJurosViewModel
     {

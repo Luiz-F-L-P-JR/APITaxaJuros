@@ -1,6 +1,6 @@
 using System;
 
-namespace API_Juros
+namespace APITaxaJuros
 {
     public class WeatherForecast
     {

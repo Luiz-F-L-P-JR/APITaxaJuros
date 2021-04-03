@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace API_Juros.Domain.TaxaJuros
+namespace APITaxaJuros.Domain.TaxaJuros
 {
     public interface ITaxaJurosService
     {

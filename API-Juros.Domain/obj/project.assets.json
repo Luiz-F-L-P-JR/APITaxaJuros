@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\API-Juros.Domain.csproj",
-      "projectName": "API-Juros.Domain",
-      "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\API-Juros.Domain.csproj",
+      "projectUniqueName": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\APITaxaJuros.Domain.csproj",
+      "projectName": "APITaxaJuros.Domain",
+      "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\APITaxaJuros.Domain.csproj",
       "packagesPath": "C:\\Users\\ljunior\\.nuget\\packages\\",
       "outputPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\obj\\",
       "projectStyle": "PackageReference",

@@ -6,10 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\API-Juros.Application\API-Juros.Application.csproj" />
+    <ProjectReference Include="..\API-Juros.Application\APITaxaJuros.Application.csproj" />
     <ProjectReference Include="..\API-Juros.Domain.Service\API-Juros.Domain.Service.csproj" />
-    <ProjectReference Include="..\API-Juros.Domain\API-Juros.Domain.csproj" />
-    <ProjectReference Include="..\API-Juros\API-Juros.csproj" />
+    <ProjectReference Include="..\API-Juros.Domain\APITaxaJuros.Domain.csproj" />
+    <ProjectReference Include="..\API-Juros\APITaxaJuros.csproj" />
   </ItemGroup>
 
 </Project>

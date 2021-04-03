@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LWb20BHerdFCrcaX6UJ81+SDRwMH7FdGuMr0LrO1CAvh22sZfhGiIEMuyXs+w74ZGno0wIHB6jsnJWq9Nd1umQ==",
+  "dgSpecHash": "03ZdAfiw0LvIaMNwSfp7XWCVss3Pa9TZ2E8nvphQr98SeMqNA8PT/QTnk2tyB7SNwThrPEN/cMGzS1jbMXE22w==",
   "success": true,
-  "projectFilePath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\API-Juros.csproj",
+  "projectFilePath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\APITaxaJuros.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ljunior\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ljunior\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

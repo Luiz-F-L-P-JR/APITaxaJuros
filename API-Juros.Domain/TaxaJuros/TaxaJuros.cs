@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace API_Juros.Domain.TaxaJuros
+namespace APITaxaJuros.Domain.TaxaJuros
 {
     public class TaxaJuros
     {

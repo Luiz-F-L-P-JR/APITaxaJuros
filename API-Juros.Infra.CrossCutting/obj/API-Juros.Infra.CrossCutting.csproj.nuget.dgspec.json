@@ -4,12 +4,12 @@
     "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Infra.CrossCutting\\API-Juros.Infra.CrossCutting.csproj": {}
   },
   "projects": {
-    "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\API-Juros.Application.csproj": {
+    "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\APITaxaJuros.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\API-Juros.Application.csproj",
-        "projectName": "API-Juros.Application",
-        "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\API-Juros.Application.csproj",
+        "projectUniqueName": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\APITaxaJuros.Application.csproj",
+        "projectName": "APITaxaJuros.Application",
+        "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\APITaxaJuros.Application.csproj",
         "packagesPath": "C:\\Users\\ljunior\\.nuget\\packages\\",
         "outputPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\obj\\",
         "projectStyle": "PackageReference",
@@ -35,8 +35,8 @@
               "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain.Service\\API-Juros.Domain.Service.csproj": {
                 "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain.Service\\API-Juros.Domain.Service.csproj"
               },
-              "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\API-Juros.Domain.csproj": {
-                "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\API-Juros.Domain.csproj"
+              "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\APITaxaJuros.Domain.csproj": {
+                "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\APITaxaJuros.Domain.csproj"
               }
             }
           }
@@ -96,8 +96,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\API-Juros.Domain.csproj": {
-                "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\API-Juros.Domain.csproj"
+              "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\APITaxaJuros.Domain.csproj": {
+                "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\APITaxaJuros.Domain.csproj"
               }
             }
           }
@@ -129,12 +129,12 @@
         }
       }
     },
-    "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\API-Juros.Domain.csproj": {
+    "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\APITaxaJuros.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\API-Juros.Domain.csproj",
-        "projectName": "API-Juros.Domain",
-        "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\API-Juros.Domain.csproj",
+        "projectUniqueName": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\APITaxaJuros.Domain.csproj",
+        "projectName": "APITaxaJuros.Domain",
+        "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\APITaxaJuros.Domain.csproj",
         "packagesPath": "C:\\Users\\ljunior\\.nuget\\packages\\",
         "outputPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\obj\\",
         "projectStyle": "PackageReference",
@@ -214,17 +214,17 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\API-Juros.Application.csproj": {
-                "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\API-Juros.Application.csproj"
+              "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\APITaxaJuros.Application.csproj": {
+                "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\APITaxaJuros.Application.csproj"
               },
               "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain.Service\\API-Juros.Domain.Service.csproj": {
                 "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain.Service\\API-Juros.Domain.Service.csproj"
               },
-              "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\API-Juros.Domain.csproj": {
-                "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\API-Juros.Domain.csproj"
+              "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\APITaxaJuros.Domain.csproj": {
+                "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Domain\\APITaxaJuros.Domain.csproj"
               },
-              "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\API-Juros.csproj": {
-                "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\API-Juros.csproj"
+              "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\APITaxaJuros.csproj": {
+                "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\APITaxaJuros.csproj"
               }
             }
           }
@@ -259,12 +259,12 @@
         }
       }
     },
-    "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\API-Juros.csproj": {
+    "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\APITaxaJuros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\API-Juros.csproj",
-        "projectName": "API-Juros",
-        "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\API-Juros.csproj",
+        "projectUniqueName": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\APITaxaJuros.csproj",
+        "projectName": "APITaxaJuros",
+        "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\APITaxaJuros.csproj",
         "packagesPath": "C:\\Users\\ljunior\\.nuget\\packages\\",
         "outputPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\obj\\",
         "projectStyle": "PackageReference",
@@ -287,8 +287,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\API-Juros.Application.csproj": {
-                "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\API-Juros.Application.csproj"
+              "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\APITaxaJuros.Application.csproj": {
+                "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\APITaxaJuros.Application.csproj"
               }
             }
           }

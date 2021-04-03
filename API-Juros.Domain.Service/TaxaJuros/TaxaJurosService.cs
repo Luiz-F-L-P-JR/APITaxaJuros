@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace API_Juros.Domain.Service
+namespace APITaxaJuros.Domain.Service
 {
     public class TaxaJurosService : TaxaJuros.ITaxaJurosService
     {

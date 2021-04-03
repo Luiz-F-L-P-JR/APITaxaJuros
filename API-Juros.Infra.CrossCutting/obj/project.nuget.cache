@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4DO0twfZhDgyYPSfT6dSAqE2XrAASUXh1Y7XpNd+FoS6jxyixdHIwIL7mcS58ImaIzuQ2Nk6OLjtYmJPndLQaQ==",
+  "dgSpecHash": "Z0+Nn1+kyl2ANGUnKgngYPDOeW2XchymtbIjeW3IqO5C1fA1/QwR4xlO19y62sp8DRZ5rKfgrnOQSKYoqeuA5A==",
   "success": true,
-  "projectFilePath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Infra.CrossCutting\\API-Juros.Infra.CrossCutting.csproj",
+  "projectFilePath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Infra.CrossCutting\\APITaxaJuros.Infra.CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ljunior\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ljunior\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -80,41 +80,41 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "API-Juros.Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "API-Juros.Domain": "1.0.0",
-          "API-Juros.Domain.Service": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/API-Juros.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/API-Juros.Application.dll": {}
-        }
-      },
-      "API-Juros.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/API-Juros.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/API-Juros.Domain.dll": {}
-        }
-      },
       "API-Juros.Domain.Service/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "API-Juros.Domain": "1.0.0"
+          "APITaxaJuros.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/API-Juros.Domain.Service.dll": {}
         },
         "runtime": {
           "bin/placeholder/API-Juros.Domain.Service.dll": {}
+        }
+      },
+      "APITaxaJuros.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "API-Juros.Domain.Service": "1.0.0",
+          "APITaxaJuros.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/APITaxaJuros.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/APITaxaJuros.Application.dll": {}
+        }
+      },
+      "APITaxaJuros.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/APITaxaJuros.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/APITaxaJuros.Domain.dll": {}
         }
       }
     }
@@ -300,25 +300,25 @@
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
-    "API-Juros.Application/1.0.0": {
-      "type": "project",
-      "path": "../API-Juros.Application/API-Juros.Application.csproj",
-      "msbuildProject": "../API-Juros.Application/API-Juros.Application.csproj"
-    },
-    "API-Juros.Domain/1.0.0": {
-      "type": "project",
-      "path": "../API-Juros.Domain/API-Juros.Domain.csproj",
-      "msbuildProject": "../API-Juros.Domain/API-Juros.Domain.csproj"
-    },
     "API-Juros.Domain.Service/1.0.0": {
       "type": "project",
       "path": "../API-Juros.Domain.Service/API-Juros.Domain.Service.csproj",
       "msbuildProject": "../API-Juros.Domain.Service/API-Juros.Domain.Service.csproj"
+    },
+    "APITaxaJuros.Application/1.0.0": {
+      "type": "project",
+      "path": "../API-Juros.Application/APITaxaJuros.Application.csproj",
+      "msbuildProject": "../API-Juros.Application/APITaxaJuros.Application.csproj"
+    },
+    "APITaxaJuros.Domain/1.0.0": {
+      "type": "project",
+      "path": "../API-Juros.Domain/APITaxaJuros.Domain.csproj",
+      "msbuildProject": "../API-Juros.Domain/APITaxaJuros.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "API-Juros.Application >= 1.0.0",
+      "APITaxaJuros.Application >= 1.0.0",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.10.8",
       "Swashbuckle.AspNetCore >= 6.1.1"
     ]
@@ -331,9 +331,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\API-Juros.csproj",
-      "projectName": "API-Juros",
-      "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\API-Juros.csproj",
+      "projectUniqueName": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\APITaxaJuros.csproj",
+      "projectName": "APITaxaJuros",
+      "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\APITaxaJuros.csproj",
       "packagesPath": "C:\\Users\\ljunior\\.nuget\\packages\\",
       "outputPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\obj\\",
       "projectStyle": "PackageReference",
@@ -356,8 +356,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\API-Juros.Application.csproj": {
-              "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\API-Juros.Application.csproj"
+            "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\APITaxaJuros.Application.csproj": {
+              "projectPath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\APITaxaJuros.Application.csproj"
             }
           }
         }

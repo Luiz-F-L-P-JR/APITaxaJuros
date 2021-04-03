@@ -1,10 +1,10 @@
-﻿using API_Juros.Application.TaxaJuros;
-using API_Juros.Application.TaxaJuros.ViewModel;
-using API_Juros.Domain.TaxaJuros;
+﻿using APITaxaJuros.Application.TaxaJuros;
+using APITaxaJuros.Application.TaxaJuros.ViewModel;
+using APITaxaJuros.Domain.TaxaJuros;
 using System;
 using System.Threading.Tasks;
 
-namespace API_Juros.Application
+namespace APITaxaJuros.Application
 {
     public class TaxaJurosAppService : ITaxaJurosAppService
     {

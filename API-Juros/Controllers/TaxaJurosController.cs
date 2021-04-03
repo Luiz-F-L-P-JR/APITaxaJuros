@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using API_Juros.Application.TaxaJuros;
-using API_Juros.Application.TaxaJuros.ViewModel;
+using APITaxaJuros.Application.TaxaJuros;
+using APITaxaJuros.Application.TaxaJuros.ViewModel;
 using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace API_Juros.Controllers
+namespace APITaxaJuros.Controllers
 {
     [ApiController]
     [Route("taxajuros")]

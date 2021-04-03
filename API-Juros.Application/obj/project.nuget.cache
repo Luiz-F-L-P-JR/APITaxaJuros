@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "on97wXhRc4qNV/Ipg/PtxJFq20Vl0cEpcGx+52cIw68txw99pftKAgTkAv/Kf0Cfot3P0qD6xmatvJcUeR4CdQ==",
+  "dgSpecHash": "WLRHmo+QpS9Bvqcr+CIzVM85atVoWJ9aT1/gSuXCw8lshg0fIXS89ShKVjM0O3hWwoUoAV1Rl2yBftyLXqIp9A==",
   "success": true,
-  "projectFilePath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\API-Juros.Application.csproj",
+  "projectFilePath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Application\\APITaxaJuros.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
