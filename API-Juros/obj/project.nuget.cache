@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "03ZdAfiw0LvIaMNwSfp7XWCVss3Pa9TZ2E8nvphQr98SeMqNA8PT/QTnk2tyB7SNwThrPEN/cMGzS1jbMXE22w==",
+  "dgSpecHash": "qCdQa8FF6KXaqgrhT0CEpetSQXkLPoRzZJri3dhOt751kikysltYr8DZ3sVpCs5pLNe5iofeftl7oF3t3IF4Eg==",
   "success": true,
   "projectFilePath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros\\APITaxaJuros.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ljunior\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ljunior\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\ljunior\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\ljunior\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
     "C:\\Users\\ljunior\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.1\\swashbuckle.aspnetcore.6.1.1.nupkg.sha512",

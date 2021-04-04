@@ -10,13 +10,13 @@ namespace APITaxaJuros.Domain.Service
 
         }
 
-        public async Task<TaxaJuros.TaxaJuros> GetTaxaJuros()
+        public async Task<decimal> GetTaxaJurosAsync()
         {
             var entidade = new TaxaJuros.TaxaJuros();
 
-            entidade.Juros = 0.01M;
+            entidade.GetTaxaJuros();
 
-            return await Task.FromResult(entidade);
+            return entidade.Juros;
         }
     }
 }

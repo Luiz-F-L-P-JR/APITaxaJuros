@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace APITaxaJuros.Domain.TaxaJuros
+namespace APITaxaJuros.Domain.Interfaces.Services.TaxaJuros
 {
     public interface ITaxaJurosService
     {
-        Task<TaxaJuros> GetTaxaJuros();
+        Task<decimal> GetTaxaJurosAsync();
     }
 }

@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\API-Juros.Domain.Service\API-Juros.Domain.Service.csproj" />
     <ProjectReference Include="..\API-Juros.Domain\APITaxaJuros.Domain.csproj" />
   </ItemGroup>
 

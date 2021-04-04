@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\API-Juros.Application\APITaxaJuros.Application.csproj" />
+    <ProjectReference Include="..\API-Juros.Infra.CrossCutting\APITaxaJuros.Infra.CrossCutting.csproj" />
   </ItemGroup>
 
   <ProjectExtensions><VisualStudio><UserProperties properties_4launchsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>

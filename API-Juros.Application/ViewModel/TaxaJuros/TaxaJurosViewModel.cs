@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace APITaxaJuros.Application.TaxaJuros.ViewModel
+namespace APITaxaJuros.Application.ViewModel.TaxaJuros
 {
     public class TaxaJurosViewModel
     {
@@ -13,7 +13,7 @@ namespace APITaxaJuros.Application.TaxaJuros.ViewModel
 
         }
 
-        public TaxaJurosViewModel(Domain.TaxaJuros.TaxaJuros entidade)
+        public TaxaJurosViewModel(Domain.Entities.TaxaJuros.TaxaJuros entidade)
         {
             Juros = entidade.Juros;
         }

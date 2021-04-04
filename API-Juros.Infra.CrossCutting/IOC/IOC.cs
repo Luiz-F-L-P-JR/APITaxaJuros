@@ -1,15 +1,17 @@
 ﻿using APITaxaJuros.Application;
-using APITaxaJuros.Application.TaxaJuros;
+using APITaxaJuros.Application.Interfaces.TaxaJuros;
+using APITaxaJuros.Application.Services.TaxaJuros;
+using APITaxaJuros.Domain.Interfaces.Services.TaxaJuros;
 using APITaxaJuros.Domain.Service;
-using APITaxaJuros.Domain.TaxaJuros;
+using APITaxaJuros.Domain.Service.TaxaJuros;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 
-namespace APITaxaJuros.Infra.CrossCutting
+namespace APITaxaJuros.Infra.CrossCutting.IOC
 {
-    public class IOC
+    public static class IOC
     {
-        public void ConfigureServices(IServiceCollection services)
+        public static void AddInjecaoDependencia(this IServiceCollection services)
         {
             services.AddTransient<ITaxaJurosAppService, TaxaJurosAppService>();
             services.AddTransient<ITaxaJurosService, TaxaJurosService>();
