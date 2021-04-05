@@ -19,6 +19,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APITaxaJuros.Domain", "API-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APITaxaJuros.Infra.CrossCutting", "API-Juros.Infra.CrossCutting\APITaxaJuros.Infra.CrossCutting.csproj", "{B33981D0-4FDA-449A-803E-47C351259883}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Test", "5 - Test", "{1D24723E-F416-42AC-BFBF-E8262DA05B54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITaxaJuros.Test", "APITaxaJuros.Test\APITaxaJuros.Test.csproj", "{6FCA5BC9-8E5D-4B78-A30B-2CD2763FE5D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,10 @@ Global
 		{B33981D0-4FDA-449A-803E-47C351259883}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B33981D0-4FDA-449A-803E-47C351259883}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B33981D0-4FDA-449A-803E-47C351259883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FCA5BC9-8E5D-4B78-A30B-2CD2763FE5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCA5BC9-8E5D-4B78-A30B-2CD2763FE5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCA5BC9-8E5D-4B78-A30B-2CD2763FE5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCA5BC9-8E5D-4B78-A30B-2CD2763FE5D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +58,7 @@ Global
 		{106ACA33-6459-4B55-B966-2A500E978BD3} = {AB2B480D-AA1C-43E3-80F3-D1B0D1BECA54}
 		{726CBDD4-BAE8-4B97-87B6-CC2D14D96D40} = {E8A61A22-9019-462C-A458-A3CDC54E1BA2}
 		{B33981D0-4FDA-449A-803E-47C351259883} = {CE75DEEA-E009-43FB-B87A-95E9B9A04403}
+		{6FCA5BC9-8E5D-4B78-A30B-2CD2763FE5D7} = {1D24723E-F416-42AC-BFBF-E8262DA05B54}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8979CB36-82B0-4339-B46D-CFF2D941228F}
