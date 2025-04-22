@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <RootNamespace>API_Juros</RootNamespace>
     <UserSecretsId>7fe9c923-8c86-4a7a-bb2c-5df99d7264d4</UserSecretsId>
     <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
