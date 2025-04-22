@@ -1,7 +1,5 @@
 ﻿using APITaxaJuros.Application.Interfaces.TaxaJuros;
-using APITaxaJuros.Application.ViewModel.TaxaJuros;
 using APITaxaJuros.Domain.Interfaces.Services.TaxaJuros;
-using System;
 using System.Threading.Tasks;
 
 namespace APITaxaJuros.Application.Services.TaxaJuros

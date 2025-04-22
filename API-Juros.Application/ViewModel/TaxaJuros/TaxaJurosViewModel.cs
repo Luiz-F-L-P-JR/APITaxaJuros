@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
+﻿
 namespace APITaxaJuros.Application.ViewModel.TaxaJuros
 {
     public class TaxaJurosViewModel

@@ -1,11 +1,8 @@
-﻿using APITaxaJuros.Application;
-using APITaxaJuros.Application.Interfaces.TaxaJuros;
+﻿using APITaxaJuros.Application.Interfaces.TaxaJuros;
 using APITaxaJuros.Application.Services.TaxaJuros;
 using APITaxaJuros.Domain.Interfaces.Services.TaxaJuros;
-using APITaxaJuros.Domain.Service;
 using APITaxaJuros.Domain.Service.TaxaJuros;
 using Microsoft.Extensions.DependencyInjection;
-using System;
 
 namespace APITaxaJuros.Infra.CrossCutting.IOC
 {

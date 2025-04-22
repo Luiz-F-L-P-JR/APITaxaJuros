@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿
 namespace APITaxaJuros.Domain.Entities.TaxaJuros
 {
     public class TaxaJuros

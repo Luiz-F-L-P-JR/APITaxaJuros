@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8AXF2cFkruHADb9JRqX6/o6vFDM1zXSrarZpYN5dDnMisx71yh4Mxay1dyTIvmw5EO1RHeqTgjcHgSUmShXjkQ==",
+  "dgSpecHash": "oDFaWqh7BoU=",
   "success": true,
-  "projectFilePath": "D:\\Luiz\\Pessoal\\Arquivos\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Infra.CrossCutting\\APITaxaJuros.Infra.CrossCutting.csproj",
+  "projectFilePath": "D:\\Projetos\\Pessoais\\Projetos API\\Api-Juros\\API-Juros\\API-Juros.Infra.CrossCutting\\APITaxaJuros.Infra.CrossCutting.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ljunior\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+    "C:\\Users\\Luiz Junior\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

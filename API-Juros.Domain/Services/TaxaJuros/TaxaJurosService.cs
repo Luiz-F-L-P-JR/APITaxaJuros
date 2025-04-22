@@ -1,5 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using APITaxaJuros.Domain.Interfaces.Services.TaxaJuros;
 
 namespace APITaxaJuros.Domain.Service.TaxaJuros

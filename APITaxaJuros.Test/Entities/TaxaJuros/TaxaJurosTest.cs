@@ -1,5 +1,4 @@
 using APITaxaJuros.Domain.Entities.TaxaJuros;
-using System;
 using Xunit;
 
 namespace APITaxaJuros.Test
